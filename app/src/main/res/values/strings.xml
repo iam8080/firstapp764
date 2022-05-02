@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstapp1</string>
+    <string name="Skip"><a href="https://www.google.com">Skip</a></string>
+    <string name="title_activity_main_page_flight">MainPageFlight</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+</resources>
